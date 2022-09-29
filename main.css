@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.navbar {
+    background-color: rgb(6, 121, 167);
+    color: white;
+    display: block;
+    padding: 10px ;
+    }
+.menu{
+    display: inline-block;
+    
+}
+.footer {
+    background-color: rgb(6, 121, 167);
+    padding-left: 20px;
+    
+}
+div.footer p{
+    font-size: x-small;
+    padding-left: 10px;
+}
+.main p{
+    padding-left: 20px;
+}
+div.main h3{
+    padding-left: 20px;
+}
+.main p.membership{
+    color: orange;
+    border:groove orange;
+    border-radius: 8px;
+    padding: 7px;
+    margin-left: 20px;
+    display: inline-block;
+    font-size: 10px;
+    padding-left: 7px;
+}
+
+.insta, .FB, .Utube{
+    display: inline-block;
+    color: white;
+    padding:7px;
+    border-radius: 8px;
+    border: groove;
+    margin-left: 20px;
+    font-size: 12px;
+    width: 100px;
+    text-align: center;
+}
+.FB{
+
+    border-color: blue;
+    background-color: blue;
+}
+.Utube{
+    border-color: red;
+    background-color: red;
+}
+.insta{
+    border-color: rgb(0, 181, 253);;
+    background-color: rgb(0, 181, 253);
+}
+h5, h6{
+    font-size: 10px;
+}
+h3{
+    color: rgb(6, 121, 167);
+}
